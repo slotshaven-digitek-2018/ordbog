@@ -1,6 +1,7 @@
 # Ordbog over det bedre danske sprog
 dabbe
 dansk
+fabbe
 fappe
 meme
 miav
@@ -8,5 +9,6 @@ noah
 ordbog
 REEEE (kun med 4 E'er)
 yeet(e)?
+
 
 
