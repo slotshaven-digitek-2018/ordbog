@@ -1,4 +1,6 @@
 # Ordbog over det bedre danske sprog
 dansk
 meme
+miav
+noah
 ordbog
