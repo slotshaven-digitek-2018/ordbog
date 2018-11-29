@@ -1,4 +1,5 @@
 # Ordbog over det bedre danske sprog
 dansk
+fappe
 meme
 ordbog
